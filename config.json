@@ -1,0 +1,8 @@
+
+{
+    "high_risk_prior_rto": 2,
+    "medium_risk_prior_rto": 1,
+    "high_risk_order_value": 1000,
+    "confirmation_timeout_hours": 24,
+    "prepaid_discount_percent": 5
+}
